@@ -1,6 +1,6 @@
 # E-Book-to-PDF-Converter
 
-Make sure you have Python, Pillow and PyAutoGUI installed.
+Make sure you have the latest version of Python, Pillow and PyAutoGUI installed.
 
 To run the program, open a command prompt, navigate to the root folder of this directory, and enter:
 
