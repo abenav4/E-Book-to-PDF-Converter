@@ -13,7 +13,7 @@ After entering this value, you'll have ten seconds to open up your E-Book applic
 
 The final output file will be called `outputPDF.pdf` and it will be located in the root folder of the directory.
 
-Example program output: 
+Example program output (and input): 
 ```
 python -i main.py
 How many pages are in your pdf?: 4
