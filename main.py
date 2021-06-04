@@ -38,4 +38,4 @@ for i in range(0, n):
     images.append(im)
 
 firstPage.save("outputPDF.pdf", "PDF", resolution=100.0, save_all=True, append_images=images)
-print("Operation successful, check root folder.")
+print("Operation successful, check root folder for output.")
